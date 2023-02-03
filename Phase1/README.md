@@ -1,4 +1,4 @@
-Mario Juárez Castillo A01411049
+
 
 El escenario estara ambientada en una habitación de paredes color azul y cielo gris
 esta habitación contara con la entrada principal desde donde inicara nuestra perspectiva y 
